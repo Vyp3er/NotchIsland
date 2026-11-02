@@ -71,7 +71,7 @@ Oben links in der aufgeklappten Island wechselst du zwischen den Tabs:
 - **Kalender:** Deine nächsten Termine. Bei Zoom, Teams oder Meet gibt es einen „Beitreten“-Knopf.
 - **Zwischenablage:** Die letzten Dinge, die du kopiert hast. Klick kopiert sie wieder, mit der Pinnadel heftest du sie an. Passwörter aus Passwortmanagern werden nicht gespeichert.
 - **Timer:** Klick auf das Timer-Symbol, tippe z. B. `5min`, `15 Minuten`, `Pizza 12 min` oder `@17:30` und drück **Enter**. Die Restzeit siehst du neben der Notch. Wenn er abläuft, klingelt es.
-- **MacBuddy:** Nur interessant, wenn du den Assistenten MacBuddy installiert hast. Sonst kannst du den Tab in den Einstellungen unter „Tabs“ ausblenden.
+- **MacBuddy:** Nur interessant, wenn du auch den KI-Assistenten **[MacBuddy](https://github.com/Vyp3er/MacBuddy)** installiert hast (Apple Silicon, macOS 26 oder neuer, [Installationsanleitung](https://github.com/Vyp3er/MacBuddy/blob/main/INSTALL.md)). Dann zeigt der Tab, was MacBuddy gerade tut, und hat einen Stopp-Knopf. Sonst kannst du den Tab in den Einstellungen unter „Tabs“ ausblenden.
 
 Alles Weitere stellst du in den **Einstellungen** ein: Größe der Island, Verzögerungen, welche Tabs sichtbar sind und in welcher Reihenfolge.
 

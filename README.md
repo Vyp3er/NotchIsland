@@ -9,7 +9,7 @@ Verwandelt die Notch deines MacBooks in eine Dynamic Island wie beim iPhone. Fä
 | **Kamera** | Gespiegelte Live-Vorschau der FaceTime-Kamera. Sie läuft nur, solange der Tab offen ist. |
 | **Kalender** | Termine von heute und morgen mit Farbe, Countdown und „Beitreten“ für Zoom, Teams, Meet und Webex. 5 Minuten vor Beginn erscheint ein Hinweis neben der Notch. |
 | **Zwischenablage** | Die letzten ~30 Texte, Links, Bilder und Dateien. Klick kopiert, Ziehen fügt ein, Einträge lassen sich anheften. Passwörter werden ignoriert. |
-| **MacBuddy** | Status, Ergebnisse und Bestätigungen deines KI-Assistenten MacBuddy, mit Not-Aus direkt neben der Notch (siehe [MacBuddy-Anbindung](#macbuddy-anbindung)). |
+| **MacBuddy** | Status, Ergebnisse und Bestätigungen des KI-Assistenten [MacBuddy](https://github.com/Vyp3er/MacBuddy), mit Not-Aus direkt neben der Notch (siehe [MacBuddy-Anbindung](#macbuddy-anbindung)). |
 | **Timer** | Dauer oder Uhrzeit eintippen („5min“, „15 Minuten“, „@5pm“, „Pizza 12 min“), Enter startet. Mehrere Timer gleichzeitig, Restzeit neben der Notch, Alarm mit Ton (siehe [Timer](#timer)). |
 
 ## Download und Installation
@@ -122,7 +122,7 @@ Klick auf das Timer-Symbol in der Tab-Leiste, eintippen, **Enter**. Rechts im Fe
 
 ## MacBuddy-Anbindung
 
-*Optional:* Nur relevant, wenn du auch den KI-Assistenten MacBuddy nutzt. Ohne MacBuddy zeigt der Tab „MacBuddy läuft nicht“; ausblenden lässt er sich unter *Einstellungen › Tabs*.
+*Optional:* Nur relevant, wenn du auch den KI-Assistenten **[MacBuddy](https://github.com/Vyp3er/MacBuddy)** nutzt (eigene App, Apple Silicon, macOS 26 oder neuer). Ohne MacBuddy zeigt der Tab „MacBuddy läuft nicht“; ausblenden lässt er sich unter *Einstellungen › Tabs*.
 
 NotchIsland zeigt, was MacBuddy gerade tut, und kann es steuern. Grundlage ist der Abschnitt „NotchIsland-Protokoll“ in der MacBuddy-README und der Code aus dessen Ordner `NotchIslandIntegration/`.
 
