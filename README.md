@@ -190,3 +190,9 @@ scripts/            install.sh, make-icon.swift
 - Solange eine Live-Aktivität sichtbar ist, verdecken die schwarzen „Ohren“ neben der Notch Menüleisten-Einträge, die direkt daneben liegen.
 - Der mediaremote-adapter nutzt private Schnittstellen. Ein künftiges macOS-Update kann ihn brechen, dann greift der AppleScript-Fallback für Musik und Spotify.
 - Mit einem Mausrad ohne horizontales Scrollen blätterst du in der Ablage mit ⇧ + Rad.
+
+## Lizenz
+
+NotchIsland steht unter der [MIT-Lizenz](LICENSE): Du darfst die App und den Code frei nutzen, verändern und weitergeben, solange der Lizenzhinweis erhalten bleibt.
+
+Der eingebundene [mediaremote-adapter](https://github.com/ungive/mediaremote-adapter) steht unter der BSD-3-Clause-Lizenz, siehe [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
