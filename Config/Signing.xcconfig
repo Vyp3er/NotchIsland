@@ -1,0 +1,17 @@
+// Signierung der App.
+//
+// Standard ist "Sign to Run Locally" (Ad-hoc). Damit macOS erteilte Berechtigungen
+// (Kamera, Kalender, Automation) auch nach einem Neu-Build behält, kannst du ein
+// eigenes Zertifikat eintragen: Lege daneben eine Datei "Signing.local.xcconfig" an,
+// z. B. mit
+//
+//   CODE_SIGN_IDENTITY = Apple Development: Dein Name (ABCDE12345)
+//   DEVELOPMENT_TEAM = DEINTEAMID
+//
+// Die Datei ist optional und wird nur eingebunden, wenn sie existiert.
+
+CODE_SIGN_STYLE = Manual
+CODE_SIGN_IDENTITY = -
+DEVELOPMENT_TEAM =
+
+#include? "Signing.local.xcconfig"
